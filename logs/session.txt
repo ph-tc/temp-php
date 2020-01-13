@@ -1,0 +1,532 @@
+
+2019-12-12 12:04:22 - Array
+(
+    [pid] => -1
+    [shtora] => http://izuchai.dance/?subs_status=1
+    [phone] => 79291008673
+    [uid] => 18715779-a728-1788-a41d-d29dbf63fb59
+    [start_time] => 1576152262
+    [has_redirect] => 1
+)
+
+
+2019-12-12 12:05:33 - Array
+(
+    [shtora] => http://izuchai.dance/?subs_status=1
+    [uid] => ac35146a-71f3-f53c-d58a-a00194a5b3f1
+    [phone] => 79291008673
+    [start_time] => 1576152333
+)
+
+
+2019-12-12 12:19:00 - Array
+(
+    [pid] => -1
+    [phone] => 79291008673
+    [uid] => e8ba62ff-4908-9ef3-609a-950ef2c6d3a8
+    [start_time] => 1576153140
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-12 12:19:20 - Array
+(
+    [pid] => -1
+    [phone] => 79291008673
+    [uid] => e8ba62ff-4908-9ef3-609a-950ef2c6d3a8
+    [start_time] => 1576153160
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-12 12:21:14 - Array
+(
+    [pid] => -1
+    [phone] => 79291008673
+    [uid] => db861fca-3801-2d3a-ebd6-d78f2e97b03f
+    [start_time] => 1576153274
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-12 12:24:49 - Array
+(
+    [pid] => -1
+    [phone] => 79291008673
+    [uid] => 7cbe5370-00ae-abda-ae9f-e4f68b6938e6
+    [start_time] => 1576153489
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-12 12:30:16 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => 041dfa80-de16-5943-248e-c528cbf0af1f
+    [start_time] => 1576153816
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-12 12:33:27 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => 9a13e704-ec20-e050-b326-b1c53f48c0c6
+    [start_time] => 1576154007
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-12 12:38:23 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => fc8ba2cc-77e0-7130-ad65-2b50e04144dc
+    [start_time] => 1576154303
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-12 12:39:34 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => 0e8b3b14-d062-c2dd-c742-14b5b0510519
+    [start_time] => 1576154374
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-12 13:37:41 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => a049d6f8-c007-1663-f907-097ed2363417
+    [start_time] => 1576157861
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-12 13:38:34 - Array
+(
+    [shtora] => http://izuchai.dance/?subs_status=1
+    [uid] => 35501c91-b796-ee6c-bd77-5c1ece6872f9
+    [phone] => 79313494404
+    [start_time] => 1576157914
+)
+
+
+2019-12-12 14:35:44 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => 7236d6d9-fe92-4e25-b3f6-1f981646bba8
+    [start_time] => 1576161344
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-12 14:36:29 - Array
+(
+    [shtora] => http://izuchai.dance/?subs_status=1
+    [uid] => 3d8ea927-ab68-be22-2a8b-4b7c7b22f7f9
+    [phone] => 79313494404
+    [start_time] => 1576161389
+)
+
+
+2019-12-13 10:01:31 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => 65f20ffe-62c0-67a5-e430-a58db45b8d52
+    [start_time] => 1576231291
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 11:34:27 - Array
+(
+    [pid] => -1
+    [phone] => 79217955688
+    [uid] => db6c8ee8-ffc2-6891-e7e0-d3fa4fb7bd9f
+    [start_time] => 1576236867
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 11:34:32 - Array
+(
+    [pid] => -1
+    [phone] => 79217955688
+    [uid] => db6c8ee8-ffc2-6891-e7e0-d3fa4fb7bd9f
+    [start_time] => 1576236872
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 11:52:33 - Array
+(
+    [pid] => -1
+    [phone] => 79319799606
+    [uid] => cfff3c7d-32af-5c50-7a50-d9fc7360c76b
+    [start_time] => 1576237953
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 11:52:34 - Array
+(
+    [pid] => -1
+    [phone] => 79319799606
+    [uid] => cfff3c7d-32af-5c50-7a50-d9fc7360c76b
+    [start_time] => 1576237954
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 11:58:03 - Array
+(
+    [pid] => -1
+    [phone] => 79319799606
+    [uid] => 264affd7-a399-0bd4-0541-8e65762f34c7
+    [start_time] => 1576238283
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 11:58:05 - Array
+(
+    [pid] => -1
+    [phone] => 79319799606
+    [uid] => 264affd7-a399-0bd4-0541-8e65762f34c7
+    [start_time] => 1576238285
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 12:04:51 - Array
+(
+    [pid] => -1
+    [phone] => 79291144285
+    [uid] => d13090c8-724e-3a90-baad-4a32a859d296
+    [start_time] => 1576238691
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 12:04:56 - Array
+(
+    [pid] => -1
+    [phone] => 79291144285
+    [uid] => d13090c8-724e-3a90-baad-4a32a859d296
+    [start_time] => 1576238696
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 12:04:58 - Array
+(
+    [pid] => -1
+    [phone] => 79291144285
+    [uid] => d13090c8-724e-3a90-baad-4a32a859d296
+    [start_time] => 1576238698
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 12:05:15 - Array
+(
+    [pid] => -1
+    [phone] => 79291144285
+    [uid] => d13090c8-724e-3a90-baad-4a32a859d296
+    [start_time] => 1576238715
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 12:36:54 - Array
+(
+    [pid] => -1
+    [phone] => 79319799606
+    [uid] => 4bca2e5c-da7e-8a69-87dc-6086229503c7
+    [start_time] => 1576240614
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 12:37:10 - Array
+(
+    [pid] => -1
+    [phone] => 79319799606
+    [uid] => 4bca2e5c-da7e-8a69-87dc-6086229503c7
+    [start_time] => 1576240630
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 13:01:35 - Array
+(
+    [pid] => -1
+    [phone] => 79319799606
+    [uid] => a0fdf22a-71b4-c383-7638-883599d14d20
+    [start_time] => 1576242095
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 13:01:38 - Array
+(
+    [pid] => -1
+    [phone] => 79319799606
+    [uid] => a0fdf22a-71b4-c383-7638-883599d14d20
+    [start_time] => 1576242098
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 13:26:32 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => 3d43c02e-5ca5-2bf6-6c18-1c87bbf07283
+    [start_time] => 1576243592
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 13:26:39 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => 3d43c02e-5ca5-2bf6-6c18-1c87bbf07283
+    [start_time] => 1576243599
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 13:26:45 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => 3d43c02e-5ca5-2bf6-6c18-1c87bbf07283
+    [start_time] => 1576243605
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 13:27:34 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => dbb39afb-dd49-1ed7-3ccb-b0073e5b1f38
+    [start_time] => 1576243654
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 13:53:53 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => c3a87832-b23f-1e1f-1c8b-dd5d5cce6781
+    [start_time] => 1576245233
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 13:55:20 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => c153c179-88bd-8146-1bcc-0bab98344bd5
+    [start_time] => 1576245320
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 15:19:09 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => 1848e54c-aebc-f85b-a416-e0822a787970
+    [start_time] => 1576250349
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 15:19:55 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => 7dfce6ea-de14-a64f-3489-a02c7296545b
+    [start_time] => 1576250395
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 16:17:53 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => c8e659f1-2807-bfa3-2a8c-54dbf3f3d5bc
+    [start_time] => 1576253873
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 16:31:21 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => ddcb31db-5722-e0ec-0b67-4feaaa8f2c32
+    [start_time] => 1576254681
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 16:38:03 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => 3ba620c8-0a29-f5b1-2105-58b3b9094349
+    [start_time] => 1576255083
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-13 16:57:05 - Array
+(
+    [pid] => -1
+    [phone] => 79281899218
+    [uid] => d7663c40-d498-8d43-e895-7e4638040a12
+    [start_time] => 1576256225
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-16 07:56:59 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => 3e415357-9f38-deae-0040-0dc0955b486c
+    [start_time] => 1576483019
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-17 11:56:53 - Array
+(
+    [pid] => 123
+    [phone] => 79313494404
+    [uid] => 477d25b7-4726-ea52-2641-266ad8a2f2dd
+    [start_time] => 1576583813
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-18 14:07:34 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => adcee0ca-bfc9-824e-5cbc-d7f85e6dc599
+    [start_time] => 1576678054
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-18 14:07:39 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => adcee0ca-bfc9-824e-5cbc-d7f85e6dc599
+    [start_time] => 1576678059
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-18 14:07:45 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => adcee0ca-bfc9-824e-5cbc-d7f85e6dc599
+    [start_time] => 1576678065
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-18 14:54:08 - Array
+(
+    [pid] => -1
+    [start_time] => 1576680848
+    [has_redirect] => 1
+    [phone] => 79313494404
+    [uid] => 0abc6614-ad87-6fd8-2beb-aa4b3008a061
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-18 15:22:34 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => 9620371d-56ad-b51a-d915-34ae506a2a21
+    [start_time] => 1576682554
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-18 15:23:25 - Array
+(
+    [pid] => -1
+    [start_time] => 1576682605
+    [has_redirect] => 1
+    [phone] => 79313494404
+    [uid] => 1135941e-ffd6-6631-f76d-e0829cea0c4f
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+
+
+2019-12-19 07:41:35 - Array
+(
+    [pid] => -1
+    [phone] => 79313494404
+    [uid] => 98fab86f-046b-a8c6-61ba-bbfb5621a58b
+    [start_time] => 1576741295
+    [has_redirect] => 1
+    [shtora] => http://izuchai.dance/?subs_status=1
+)
+

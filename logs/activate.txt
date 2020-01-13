@@ -1,0 +1,154 @@
+
+2019-12-11 12:08:55 http://api.idvlp.pw/activate?code=1234&uid=3b3580d3-65fb-d84f-b928-37e1a5b93c02&sign=d91d74e81ce87c784d000925ac51b65f - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 08:19:39 http://api.idvlp.pw/activate?code=1234&uid=bfe35b92-6272-612a-403b-435b3114bd2a&sign=2495c4a4c42a31ba913039511b0a7e61 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 08:21:01 http://api.idvlp.pw/activate?code=1234&uid=bfe35b92-6272-612a-403b-435b3114bd2a&sign=2495c4a4c42a31ba913039511b0a7e61 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 08:23:18 http://api.idvlp.pw/activate?code=1234&uid=bfe35b92-6272-612a-403b-435b3114bd2a&sign=2495c4a4c42a31ba913039511b0a7e61 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 08:24:25 http://api.idvlp.pw/activate?code=1234&uid=bfe35b92-6272-612a-403b-435b3114bd2a&sign=2495c4a4c42a31ba913039511b0a7e61 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 08:24:58 http://api.idvlp.pw/activate?code=1234&uid=bfe35b92-6272-612a-403b-435b3114bd2a&sign=2495c4a4c42a31ba913039511b0a7e61 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 08:25:12 http://api.idvlp.pw/activate?code=1234&uid=bfe35b92-6272-612a-403b-435b3114bd2a&sign=2495c4a4c42a31ba913039511b0a7e61 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 08:27:05 http://api.idvlp.pw/activate?code=1234&uid=bfe35b92-6272-612a-403b-435b3114bd2a&sign=2495c4a4c42a31ba913039511b0a7e61 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 08:27:13 http://api.idvlp.pw/activate?code=1234&uid=bfe35b92-6272-612a-403b-435b3114bd2a&sign=2495c4a4c42a31ba913039511b0a7e61 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 08:32:44 http://api.idvlp.pw/activate?code=1234&uid=bfe35b92-6272-612a-403b-435b3114bd2a&sign=2495c4a4c42a31ba913039511b0a7e61 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 08:32:52 http://api.idvlp.pw/activate?code=1234&uid=bfe35b92-6272-612a-403b-435b3114bd2a&sign=2495c4a4c42a31ba913039511b0a7e61 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 08:34:15 http://api.idvlp.pw/activate?code=1234&uid=bfe35b92-6272-612a-403b-435b3114bd2a&sign=2495c4a4c42a31ba913039511b0a7e61 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 08:34:22 http://api.idvlp.pw/activate?code=1234&uid=bfe35b92-6272-612a-403b-435b3114bd2a&sign=2495c4a4c42a31ba913039511b0a7e61 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 08:34:44 http://api.idvlp.pw/activate?code=1234&uid=bfe35b92-6272-612a-403b-435b3114bd2a&sign=2495c4a4c42a31ba913039511b0a7e61 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 08:34:46 http://api.idvlp.pw/activate?code=1234&uid=bfe35b92-6272-612a-403b-435b3114bd2a&sign=2495c4a4c42a31ba913039511b0a7e61 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 08:34:49 http://api.idvlp.pw/activate?code=1234&uid=bfe35b92-6272-612a-403b-435b3114bd2a&sign=2495c4a4c42a31ba913039511b0a7e61 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 08:34:56 http://api.idvlp.pw/activate?code=1234&uid=bfe35b92-6272-612a-403b-435b3114bd2a&sign=2495c4a4c42a31ba913039511b0a7e61 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 08:37:15 http://api.idvlp.pw/activate?code=1234&uid=2beb3f32-daa9-49ba-68ba-9681dd8fb444&sign=1adf4ed87e610a0ed0415c93497c3733 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 08:47:48 http://api.idvlp.pw/activate?code=1234&uid=0280366a-3d82-4068-22ce-93e56a9fa5da&sign=f2310891c5963670bd9bb88daf9da630 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 08:49:03 http://api.idvlp.pw/activate?code=1234&uid=b3cc1fad-122d-bca3-8467-a8faa964ce0b&sign=ff947651e6eb1dbc9f2d2f67c682dc34 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 09:14:52 http://api.idvlp.pw/activate?code=1234&uid=7f53d3b3-e2b3-4ee4-5276-3146aafd4a6d&sign=233d67135c9a3a2eccb2c2e16f64b7ef - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 09:58:32 http://api.idvlp.pw/activate?code=1234&uid=4b46f1c6-c40b-43d3-68cb-932f66491586&sign=a6388a77765da15554528813f7af15df - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 10:13:34 http://api.idvlp.pw/activate?code=1234&uid=50250bd3-0a5b-58c8-f3d9-8a8c906d9efb&sign=68cf04b5f23526aad9ce3b61b202981c - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 10:21:40 http://api.idvlp.pw/activate?code=1234&uid=0110ce15-19ef-894e-c9b7-f0d6f039baa2&sign=8de87c77f05cf7cbaa30fafd712be191 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 10:43:24 http://api.idvlp.pw/activate?code=1234&uid=2361005f-f501-f094-a9ac-7937ebb2f837&sign=3df2ab909bdd4a867225ab8dd4765d86 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 10:57:21 http://api.idvlp.pw/activate?code=1234&uid=4dbf6850-d358-a848-586f-29b77a5f0246&sign=2d332ec96ed575ce3a206dd704bec438 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 11:01:07 http://api.idvlp.pw/activate?code=1234&uid=8d6f3c4e-9a51-f120-f61d-329a2c7da6f7&sign=4a4778d46d9850899e7de816f3511e21 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 12:04:22 http://api.idvlp.pw/activate?code=1234&uid=18715779-a728-1788-a41d-d29dbf63fb59&sign=5feb36844e1a6846cbaf2ce13247542a - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 12:05:33 http://api.idvlp.pw/activate?code=1234&uid=ac35146a-71f3-f53c-d58a-a00194a5b3f1&sign=be019783d88ddbb4d1c8207b00629618 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 12:19:00 http://api.idvlp.pw/activate?code=1234&uid=e8ba62ff-4908-9ef3-609a-950ef2c6d3a8&sign=a7ec983b6f00eb466e0b77bbed83a5b7 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 12:19:20 http://api.idvlp.pw/activate?code=1234&uid=e8ba62ff-4908-9ef3-609a-950ef2c6d3a8&sign=a7ec983b6f00eb466e0b77bbed83a5b7 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 12:21:14 http://api.idvlp.pw/activate?code=1234&uid=db861fca-3801-2d3a-ebd6-d78f2e97b03f&sign=643aca1e7966da9ce1fe53fcec761b17 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 12:24:49 http://api.idvlp.pw/activate?code=1234&uid=7cbe5370-00ae-abda-ae9f-e4f68b6938e6&sign=4baba3624859dbcfc6447a5d7a209a59 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 12:30:16 http://api.idvlp.pw/activate?code=4321&uid=041dfa80-de16-5943-248e-c528cbf0af1f&sign=c108f3b3637aa4d36cadba17c3035e60 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 12:33:27 http://api.idvlp.pw/activate?code=3412&uid=9a13e704-ec20-e050-b326-b1c53f48c0c6&sign=ce1e516603d2423381b31232fdcaffa8 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 12:38:23 http://api.idvlp.pw/activate?code=4321&uid=fc8ba2cc-77e0-7130-ad65-2b50e04144dc&sign=628b96e6f88794c70cbd17c67535d0d5 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 12:39:34 http://api.idvlp.pw/activate?code=6037&uid=0e8b3b14-d062-c2dd-c742-14b5b0510519&sign=29f9787087b497c43d6e3998c1b8852a - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 13:37:41 http://api.idvlp.pw/activate?code=6666&uid=a049d6f8-c007-1663-f907-097ed2363417&sign=2150b38c875062e1a46e6570de093279 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 13:38:34 http://api.idvlp.pw/activate?code=6277&uid=35501c91-b796-ee6c-bd77-5c1ece6872f9&sign=d3aa09f839b4f9e804310e55b3707d20 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 14:35:44 http://api.idvlp.pw/activate?code=1277&uid=7236d6d9-fe92-4e25-b3f6-1f981646bba8&sign=010fd50d6036f911b573bcf92be5acf7 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-12 14:36:29 http://api.idvlp.pw/activate?code=5700&uid=3d8ea927-ab68-be22-2a8b-4b7c7b22f7f9&sign=3b04e21a63adb97e6b30014347ed07c9 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 10:01:31 http://api.idvlp.pw/activate?code=1234&uid=65f20ffe-62c0-67a5-e430-a58db45b8d52&sign=0c83e630597bee376e00ab1b07c4906e - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 11:34:27 http://api.idvlp.pw/activate?code=1213&uid=db6c8ee8-ffc2-6891-e7e0-d3fa4fb7bd9f&sign=92e9592e1c65bea34a3d024128f208dd - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 11:34:32 http://api.idvlp.pw/activate?code=1213&uid=db6c8ee8-ffc2-6891-e7e0-d3fa4fb7bd9f&sign=92e9592e1c65bea34a3d024128f208dd - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 11:52:33 http://api.idvlp.pw/activate?code=1234&uid=cfff3c7d-32af-5c50-7a50-d9fc7360c76b&sign=4b0bc80bee6b575b2b9b94d846a2502a - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 11:52:34 http://api.idvlp.pw/activate?code=1234&uid=cfff3c7d-32af-5c50-7a50-d9fc7360c76b&sign=4b0bc80bee6b575b2b9b94d846a2502a - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 11:58:03 http://api.idvlp.pw/activate?code=1234&uid=264affd7-a399-0bd4-0541-8e65762f34c7&sign=cd0120a65e1d18d90cabb4bd88bb2fe1 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 11:58:05 http://api.idvlp.pw/activate?code=1234&uid=264affd7-a399-0bd4-0541-8e65762f34c7&sign=cd0120a65e1d18d90cabb4bd88bb2fe1 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 12:04:51 http://api.idvlp.pw/activate?code=1234&uid=d13090c8-724e-3a90-baad-4a32a859d296&sign=749dc7af0d76f3541d079dfbc7fc780f - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 12:04:56 http://api.idvlp.pw/activate?code=1234&uid=d13090c8-724e-3a90-baad-4a32a859d296&sign=749dc7af0d76f3541d079dfbc7fc780f - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 12:04:58 http://api.idvlp.pw/activate?code=1234&uid=d13090c8-724e-3a90-baad-4a32a859d296&sign=749dc7af0d76f3541d079dfbc7fc780f - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 12:05:15 http://api.idvlp.pw/activate?code=6311&uid=d13090c8-724e-3a90-baad-4a32a859d296&sign=3f16da130571400e931c05def76f71aa - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 12:36:54 http://api.idvlp.pw/activate?code=1234&uid=4bca2e5c-da7e-8a69-87dc-6086229503c7&sign=b4bf0f1ddadf13c57465d2e3d2daf61e - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 12:37:10 http://api.idvlp.pw/activate?code=1687&uid=4bca2e5c-da7e-8a69-87dc-6086229503c7&sign=fed9828e03efa07182c2563891d9ea34 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 13:01:35 http://api.idvlp.pw/activate?code=1234&uid=a0fdf22a-71b4-c383-7638-883599d14d20&sign=e09a9a45c2e9cffdd4aaa89ba386b6e0 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 13:01:38 http://api.idvlp.pw/activate?code=1234&uid=a0fdf22a-71b4-c383-7638-883599d14d20&sign=e09a9a45c2e9cffdd4aaa89ba386b6e0 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 13:26:32 http://api.idvlp.pw/activate?code=4444&uid=3d43c02e-5ca5-2bf6-6c18-1c87bbf07283&sign=2c207d95010e145ecc8e98c2a864a4a0 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 13:26:39 http://api.idvlp.pw/activate?code=4444&uid=3d43c02e-5ca5-2bf6-6c18-1c87bbf07283&sign=2c207d95010e145ecc8e98c2a864a4a0 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 13:26:45 http://api.idvlp.pw/activate?code=4444&uid=3d43c02e-5ca5-2bf6-6c18-1c87bbf07283&sign=2c207d95010e145ecc8e98c2a864a4a0 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 13:27:34 http://api.idvlp.pw/activate?code=5566&uid=dbb39afb-dd49-1ed7-3ccb-b0073e5b1f38&sign=cfbdce9b6181fac766ae437e2337ea97 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 13:53:53 http://api.idvlp.pw/activate?code=1221&uid=c3a87832-b23f-1e1f-1c8b-dd5d5cce6781&sign=4b2cba4ae6f7673828e4825a6ce3bced - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 13:55:20 http://api.idvlp.pw/activate?code=8260&uid=c153c179-88bd-8146-1bcc-0bab98344bd5&sign=8cdf4309e1a79aae8b0978a8f1b05175 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 15:19:09 http://api.idvlp.pw/activate?code=7766&uid=1848e54c-aebc-f85b-a416-e0822a787970&sign=a4faacfd15186310649b8a7a03eb2eb4 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 15:19:55 http://api.idvlp.pw/activate?code=8088&uid=7dfce6ea-de14-a64f-3489-a02c7296545b&sign=92a07f4119fc7071a6383b1960f64b7a - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 16:17:53 http://api.idvlp.pw/activate?code=1500&uid=c8e659f1-2807-bfa3-2a8c-54dbf3f3d5bc&sign=badc38d1e8aab2ec03d101add4559d4c - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 16:31:21 http://api.idvlp.pw/activate?code=1500&uid=ddcb31db-5722-e0ec-0b67-4feaaa8f2c32&sign=dab91fb808c2dd5d0dcd3cc113ef5b01 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 16:38:03 http://api.idvlp.pw/activate?code=3008&uid=3ba620c8-0a29-f5b1-2105-58b3b9094349&sign=a1bf8319258c9e04374203c2e05054b7 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-13 16:57:05 http://api.idvlp.pw/activate?code=9228&uid=d7663c40-d498-8d43-e895-7e4638040a12&sign=e5e940688321abb79ce1248ef099799b - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-16 07:56:59 http://api.idvlp.pw/activate?code=6677&uid=3e415357-9f38-deae-0040-0dc0955b486c&sign=539e63f8182a656f69240c468c2448b5 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-17 11:56:53 http://api.idvlp.pw/activate?code=8586&uid=477d25b7-4726-ea52-2641-266ad8a2f2dd&sign=08402ea1c2ac9f30bdade53d77cdaea3 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-18 14:07:34 http://api.idvlp.pw/activate?code=1234&uid=adcee0ca-bfc9-824e-5cbc-d7f85e6dc599&sign=da4e1a1009a0cf6b0d16d2a72da04131 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-18 14:07:39 http://api.idvlp.pw/activate?code=1234&uid=adcee0ca-bfc9-824e-5cbc-d7f85e6dc599&sign=da4e1a1009a0cf6b0d16d2a72da04131 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-18 14:07:45 http://api.idvlp.pw/activate?code=1234&uid=adcee0ca-bfc9-824e-5cbc-d7f85e6dc599&sign=da4e1a1009a0cf6b0d16d2a72da04131 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-18 14:54:08 http://api.idvlp.pw/activate?code=7148&uid=0abc6614-ad87-6fd8-2beb-aa4b3008a061&sign=f94d98c7655634b243727cf873d3abe4 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-18 15:22:34 http://api.idvlp.pw/activate?code=1111&uid=9620371d-56ad-b51a-d915-34ae506a2a21&sign=c107cfd3b6aae0e1a5aaf689e127caf7 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-18 15:23:25 http://api.idvlp.pw/activate?code=3857&uid=1135941e-ffd6-6631-f76d-e0829cea0c4f&sign=712994c8737dbe54fc18df60d663f9c5 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
+
+2019-12-19 07:41:35 http://api.idvlp.pw/activate?code=9617&uid=98fab86f-046b-a8c6-61ba-bbfb5621a58b&sign=dc4fc673c91ba44b48b1bc4e59ad1c69 - {"status":true,"url":"http://izuchai.dance/?subs_status=1"}
